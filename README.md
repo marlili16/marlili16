@@ -4,6 +4,6 @@ Meu nome é Lilian
 
 - Estou estudando na [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Uso esse espaço para compartilhar meus projetos
+- Utilizo esse espaço para compartilhar meus projetos
 
 ![](https://media.tenor.com/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
